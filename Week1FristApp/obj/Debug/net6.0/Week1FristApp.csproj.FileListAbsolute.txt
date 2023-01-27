@@ -1,0 +1,15 @@
+C:\Users\M\source\repos\Week1FristApp\Week1FristApp\bin\Debug\net6.0\Week1FristApp.exe
+C:\Users\M\source\repos\Week1FristApp\Week1FristApp\bin\Debug\net6.0\Week1FristApp.deps.json
+C:\Users\M\source\repos\Week1FristApp\Week1FristApp\bin\Debug\net6.0\Week1FristApp.runtimeconfig.json
+C:\Users\M\source\repos\Week1FristApp\Week1FristApp\bin\Debug\net6.0\Week1FristApp.dll
+C:\Users\M\source\repos\Week1FristApp\Week1FristApp\bin\Debug\net6.0\Week1FristApp.pdb
+C:\Users\M\source\repos\Week1FristApp\Week1FristApp\obj\Debug\net6.0\Week1FristApp.csproj.AssemblyReference.cache
+C:\Users\M\source\repos\Week1FristApp\Week1FristApp\obj\Debug\net6.0\Week1FristApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M\source\repos\Week1FristApp\Week1FristApp\obj\Debug\net6.0\Week1FristApp.AssemblyInfoInputs.cache
+C:\Users\M\source\repos\Week1FristApp\Week1FristApp\obj\Debug\net6.0\Week1FristApp.AssemblyInfo.cs
+C:\Users\M\source\repos\Week1FristApp\Week1FristApp\obj\Debug\net6.0\Week1FristApp.csproj.CoreCompileInputs.cache
+C:\Users\M\source\repos\Week1FristApp\Week1FristApp\obj\Debug\net6.0\Week1FristApp.dll
+C:\Users\M\source\repos\Week1FristApp\Week1FristApp\obj\Debug\net6.0\refint\Week1FristApp.dll
+C:\Users\M\source\repos\Week1FristApp\Week1FristApp\obj\Debug\net6.0\Week1FristApp.pdb
+C:\Users\M\source\repos\Week1FristApp\Week1FristApp\obj\Debug\net6.0\Week1FristApp.genruntimeconfig.cache
+C:\Users\M\source\repos\Week1FristApp\Week1FristApp\obj\Debug\net6.0\ref\Week1FristApp.dll
